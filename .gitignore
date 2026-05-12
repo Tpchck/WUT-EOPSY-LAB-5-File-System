@@ -1,0 +1,7 @@
+# Working notes & instructions (local only)
+MD/
+
+# Build artifacts
+*.o
+*.out
+filesystem
