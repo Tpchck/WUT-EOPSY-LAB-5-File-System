@@ -5,3 +5,5 @@ MD/
 *.o
 *.out
 filesystem
+fs_tool
+disk
